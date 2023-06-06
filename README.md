@@ -1,6 +1,10 @@
 # nonebot 一些爬虫插件
 
+## 计划将改为异步爬虫
+
 ## ascii2d：
+
+## 注意修改你的downloadPath
 
 nonebot搜图插件，使用ascii2d搜图
 
@@ -8,9 +12,11 @@ nonebot搜图插件，使用ascii2d搜图
 
 默认使用特征搜索
 
-未来会提供更多可配置的信息，并且未来将用转发群聊消息形式返回
+
 
 ## nhentai：
+
+## 注意：该功能需要关闭代理，否则会被soutubot站点api的cloudflare拦下来
 
 使用soutubot搜图，
 
