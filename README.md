@@ -4,8 +4,6 @@
 
 ## ascii2d：
 
-## 注意修改你的downloadPath
-
 nonebot搜图插件，使用ascii2d搜图
 
 目前仅仅是能用
